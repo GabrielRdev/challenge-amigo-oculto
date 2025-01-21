@@ -19,6 +19,10 @@ Este projeto é uma aplicação web simples e intuitiva, onde os usuários podem
 - **Mensagens de Alerta**: Avisos para cenários específicos, como quando o número de participantes é insuficiente ou ímpar.
 - **Limpeza de Campos**: Após o sorteio, os campos e listas são resetados para uma nova rodada.
 
+![Texto alternativo](./assets/tela-inicial.jpeg)
+![Texto alternativo](./assets/sorteio1.jpeg)
+![Texto alternativo](./assets/sorteio2.jpeg)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica da aplicação.
