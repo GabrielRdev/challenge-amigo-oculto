@@ -32,12 +32,12 @@ function atualizarLista() {
     amigos.forEach((amigo, index) => {
         const li = document.createElement('li');
         li.textContent = amigo;
-        
+
         const buttonRemover = document.createElement('button');
         buttonRemover.textContent = "Remover";
         buttonRemover.className = "button-remove";
         buttonRemover.onclick = () => removerAmigo(index);
-        
+
         li.appendChild(buttonRemover);
         listaAmigos.appendChild(li);
     });
@@ -84,10 +84,3 @@ function exibirResultado(resultado) {
 }
 
 
-// Função para limpar os campos de entrada e os resultados
-function limparCampos() {
-    document.getElementById('amigo').value = "";
-    document.getElementById('listaAmigos').innerHTML = "";
-    document.getElementById('resultado').innerHTML = "";
-    amigos.length = 0;
-}
