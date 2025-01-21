@@ -46,10 +46,10 @@ Este projeto é uma aplicação web simples e intuitiva, onde os usuários podem
 
 ## Estrutura do Projeto
 
-- index.html: Página principal da aplicação.
-- style.css: Estilos utilizados para personalizar a interface.
-- app.js: Lógica principal da aplicação.
-- /assets: Imagens e ícones utilizados na aplicação.
+- **index.html:*** Página principal da aplicação.
+- **style.css:** Estilos utilizados para personalizar a interface.
+- **app.js:** Lógica principal da aplicação.
+- **/assets:** Imagens e ícones utilizados na aplicação.
 
 ## Contribuição
 
